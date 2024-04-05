@@ -1,7 +1,7 @@
 ---
 title: Website Contains Broken Links
-labels: "brokenlink"
-assignees: "@BananaChad"
+labels:
+assignees:
 ---
 
 ## Broken Links Detected
