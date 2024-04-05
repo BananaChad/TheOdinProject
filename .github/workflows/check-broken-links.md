@@ -1,12 +1,12 @@
 ---
 title: Website Contains Broken Links
-labels: ""
-assignees: ""
+labels: "brokenlink"
+assignees: "@BananaChad"
 ---
 
 ## Broken Links Detected
 
-Broken Link Checker found broken links on <https://bananachad.github.io/TheOdinProject/>
+Broken Link Checker found broken links on https://bananachad.github.io/TheOdinProject/
 
 [View Results](https://github.com/BananaChad/TheOdinProject/actions/workflows/check-broken-links.yml)
 
