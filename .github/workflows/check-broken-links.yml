@@ -7,6 +7,9 @@ env:
 concurrency:
   group: "pages"
   cancel-in-progress: false
+permissions:
+  contents: read
+  issues: write
 
 jobs:
   check:
