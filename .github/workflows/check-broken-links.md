@@ -1,7 +1,5 @@
 ---
 title: Website Contains Broken Links
-labels:
-assignees:
 ---
 
 ## Broken Links Detected
