@@ -1,5 +1,8 @@
 name: Broken Links Checker
 on:
+  push:
+    branches: ["main"]
+
   workflow_dispatch:
 env:
   WEBSITE_URL: "https://bananachad.github.io/TheOdinProject/"
