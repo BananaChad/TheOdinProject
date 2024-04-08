@@ -30,3 +30,6 @@
 .file:before {
   padding-right: 10px;
 }
+.done {
+  color: lightgreen;
+}
